@@ -3,10 +3,9 @@ mediapipe==0.10.14
 matplotlib
 tqdm
 streamlit
-tensorflow
 selenium
-webdriver-manager
 scipy
 requests
 scikit-learn
 pandas
+torch
